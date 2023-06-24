@@ -84,7 +84,7 @@
                 <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                 <div class="typed-text d-none">Web Developer, Full Stack Developer, Web Designer</div>
                 <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                    <a href="./file/marketing.pdf" class="btn btn-outline-light mr-5">Download CV</a>
+                    <a target="_blank" href="./file/Muzammil-Ismail.pdf" class="btn btn-outline-light mr-5">View My Resume</a>
                 </div>
             </div>
         </div>
@@ -438,7 +438,7 @@
             <a class="btn btn-light btn-social mr-2" href="https://www.upwork.com/freelancers/~0116acf7e7b0cdd5b2"><img src="./img/upwork.png" style="height: 28px; width: 40px; margin-top: -4px"></a>
             <a class="btn btn-light btn-social" target="_blank" href="https://www.linkedin.com/in/muzammil-ismail-a23ab6222"><img src="./img/linkedin.png" style="height: 18px; width: 18px; margin-bottom: 5px; margin-left: 2px;"></a>
         </div>
-        <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">muzammilismail.tech</a>. All Rights Reserved.</a>
+        <p class="m-0">&copy; <a class="text-white font-weight-bold" href="{{route("home")}}">muzammilismail.tech</a>. All Rights Reserved.</a>
         </p>
     </div>
 </div>
