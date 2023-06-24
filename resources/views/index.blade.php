@@ -10,7 +10,7 @@
     <meta content="Free HTML Templates" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/favicon_3.jpg" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -435,7 +435,7 @@
         <div class="d-flex justify-content-center mb-4">
             <a class="btn btn-light btn-social mr-2" target="_blank" href="https://github.com/muzammilismailatwork"><img src="./img/github.png" style="height: 22px; width: 22px; margin-bottom: 3px"></a>
             <a class="btn btn-light btn-social mr-2" target="_blank" href="https://www.fiverr.com/dilshadsoomro12" ><img src="./img/fiverr.png" style="height: 18px; width: 18px; margin-bottom: 3px"></a>
-            <a class="btn btn-light btn-social mr-2" href="#"><img src="./img/upwork.png" style="height: 28px; width: 40px; margin-top: -4px"></a>
+            <a class="btn btn-light btn-social mr-2" href="https://www.upwork.com/freelancers/~0116acf7e7b0cdd5b2"><img src="./img/upwork.png" style="height: 28px; width: 40px; margin-top: -4px"></a>
             <a class="btn btn-light btn-social" target="_blank" href="https://www.linkedin.com/in/muzammil-ismail-a23ab6222"><img src="./img/linkedin.png" style="height: 18px; width: 18px; margin-bottom: 5px; margin-left: 2px;"></a>
         </div>
         <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">muzammilismail.tech</a>. All Rights Reserved.</a>
