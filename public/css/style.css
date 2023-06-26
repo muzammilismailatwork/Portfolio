@@ -9939,10 +9939,10 @@ h6,
 
 .portfolio-item:hover .portfolio-btn {
   opacity: 1;
-  width: calc(100% - 210px);
-  height: calc(100% - 170px);
-  top: 88px;
-  left: 100px;
+  width: calc(100% - 280px);
+  height: calc(100% - 140px);
+  top: 65px;
+  left: 135px;
 }
 
 .testimonial-carousel .owl-dots {

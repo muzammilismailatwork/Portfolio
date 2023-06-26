@@ -164,8 +164,8 @@
                     </div>
                     <div class="position-relative mb-4">
                         <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
-                        <h5 class="font-weight-bold mb-1">Jubliee Life Insurance Company</h5>
-                        <p class="mb-2"><strong>Group Operations Executive</strong> | <small>2021 - Present</small></p>
+                        <h5 class="font-weight-bold mb-1">Group Operations Executive</h5>
+                        <p class="mb-2"><strong>Jubliee Life Insurance Company</strong> | <small>2021 - Present</small></p>
                         <p style="text-align: justify">I am professional responsible for overseeing and managing the operational activities of organization. Their role involves coordinating and optimizing various operational processes to ensure efficiency, productivity, and seamless operations across different departments</p>
                     </div>
                     <div class="position-relative mb-4">
@@ -268,7 +268,6 @@
                     <h4 class="font-weight-bold m-0">Web Design</h4>
                 </div>
                 <p>You will get creating visually appealing and user-friendly websites by combining various elements such as layout, colors, typography, imagery, and interactive features.</p>
-                <a class="border-bottom border-primary text-decoration-none" href="">Read More</a>
             </div>
             <div class="col-lg-4 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
@@ -276,7 +275,6 @@
                     <h4 class="font-weight-bold m-0">Web Development</h4>
                 </div>
                 <p>I am responsible for creation and maintenance of websites and web applications. Including front-end development, back-end development, and database management.</p>
-                <a class="border-bottom border-primary text-decoration-none" href="">Read More</a>
             </div>
             <div class="col-lg-4 col-md-6 text-center mb-5">
                 <div class="d-flex align-items-center justify-content-center mb-4">
@@ -284,7 +282,6 @@
                     <h4 class="font-weight-bold m-0">Instructor</h4>
                 </div>
                 <p>If you're ready to embark on an exciting journey of learning web development languages, look no further! I am here, enthusiastic and dedicated, to guide you every step of the way.</p>
-                <a class="border-bottom border-primary text-decoration-none" href="">Read More</a>
             </div>
         </div>
     </div>
@@ -303,18 +300,18 @@
             <div class="col-12 text-center mb-2">
                 <ul class="list-inline mb-4" id="portfolio-flters">
                     <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Design</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Development</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".third">Marketing</li>
+                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">E-Commerce</li>
+                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Blogsite</li>
                 </ul>
             </div>
         </div>
         <div class="row portfolio-container">
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-1.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/multi1.png" alt="">
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-1.jpg" data-lightbox="portfolio">
+                        <a href="img/multi1.png" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -322,19 +319,10 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-2.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/blogsite1.png" alt="">
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-2.jpg" data-lightbox="portfolio">
-                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
-                <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-3.jpg" alt="">
-                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-3.jpg" data-lightbox="portfolio">
+                        <a href="img/blogsite1.png" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -342,9 +330,10 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-4.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/multi2.png" alt="">
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-4.jpg" data-lightbox="portfolio">
+                        <a href="img/multi2.png" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -352,19 +341,32 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-5.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/blogsite2.png" alt="">
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-5.jpg" data-lightbox="portfolio">
+                        <a href="img/blogsite2.png" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="img/portfolio-6.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="img/multi3.png" alt="">
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="img/portfolio-6.jpg" data-lightbox="portfolio" data-title="Test">
+                        <a href="img/multi3.png" data-lightbox="portfolio">
+                            <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                <div class="position-relative overflow-hidden mb-2">
+                    <img class="img-fluid rounded w-100" src="img/blogsite3.png" alt="">
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                        <a href="img/blogsite3.png" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
