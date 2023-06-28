@@ -308,7 +308,7 @@
         <div class="row portfolio-container">
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="/multi1.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-1.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
@@ -319,7 +319,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="/blogsite1.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-2.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
@@ -330,7 +330,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="/multi2.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-3.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
@@ -341,7 +341,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="/blogsite2.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-4.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
@@ -352,7 +352,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="/multi3.PNG" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-5.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
@@ -363,7 +363,7 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
-                    <img class="img-fluid rounded w-100" src="./img/about.jpg" alt="">
+                    <img class="img-fluid rounded w-100" src="./img/portfolio-6.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="" data-lightbox="portfolio">
