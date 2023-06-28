@@ -300,8 +300,8 @@
             <div class="col-12 text-center mb-2">
                 <ul class="list-inline mb-4" id="portfolio-flters">
                     <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">E-Commerce</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Blogsite</li>
+                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Blog Site/li>
+                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">E Commerce</li>
                 </ul>
             </div>
         </div>
@@ -311,7 +311,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-1.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-1.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -322,7 +322,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-2.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-2.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -333,7 +333,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-3.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-3.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -344,7 +344,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-4.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-4.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -355,7 +355,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-5.jpg" alt="">
                     <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-5.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
@@ -366,7 +366,7 @@
                     <img class="img-fluid rounded w-100" src="./img/portfolio-6.jpg" alt="">
                     <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                        <a href="" data-lightbox="portfolio">
+                        <a href="./img/portfolio-6.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                         </a>
                     </div>
