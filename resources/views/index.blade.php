@@ -309,7 +309,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-1.jpg" alt="">
-                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-1.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
@@ -320,7 +320,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-2.jpg" alt="">
-                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-2.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
@@ -331,7 +331,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-3.jpg" alt="">
-                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-3.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
@@ -342,7 +342,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-4.jpg" alt="">
-                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-4.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
@@ -353,7 +353,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-5.jpg" alt="">
-                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-5.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
@@ -364,7 +364,7 @@
             <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                 <div class="position-relative overflow-hidden mb-2">
                     <img class="img-fluid rounded w-100" src="./img/portfolio-6.jpg" alt="">
-                    <a href="https://blogsite.muzammilismail.tech/" target="_blank">Click here for visit</a>
+                    <a href="https://multishop.muzammilismail.tech/" target="_blank">Click here for visit</a>
                     <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
                         <a href="./img/portfolio-6.jpg" data-lightbox="portfolio">
                             <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
