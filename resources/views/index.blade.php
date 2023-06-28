@@ -300,7 +300,7 @@
             <div class="col-12 text-center mb-2">
                 <ul class="list-inline mb-4" id="portfolio-flters">
                     <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li>
-                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Blog Site/li>
+                    <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Blog Site</li>
                     <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">E Commerce</li>
                 </ul>
             </div>
